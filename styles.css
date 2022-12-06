@@ -1,1 +1,10 @@
-
+#img-div {
+    width: 100%;
+    text-align: center;
+  }
+  
+  #image {
+    display: block;
+    margin: auto;
+    width: 15%;
+  }
